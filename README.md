@@ -1,5 +1,12 @@
-### Hi there 👋
+### Seja bem-vindo(a)!!! 👋
 
+Este é meu repositório pessoal de atividades desenvolvidas por mim em ensino, pesquisa e extensão dentro da Universidade Federal de Alfenas (UNIFAL-MG).
+
+Os projetos desenvolvidos e disponíveis são apresentados a seguir:
+
+🖥️ Descaracterização de TV Box apreendidas pela Receita Federal
+
+⚙️ R aplicado a problemas de Engenharia (em construção).
 <!--
 **lnrddev/lnrddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
