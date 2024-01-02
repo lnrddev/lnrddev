@@ -4,7 +4,7 @@ Este é meu repositório pessoal de atividades desenvolvidas por mim em ensino, 
 
 Os projetos desenvolvidos e disponíveis são apresentados a seguir:
 
-🖥️ Descaracterização de TV Box apreendidas pela Receita Federal
+🖥️ [Descaracterização de TV Box apreendidas pela Receita Federal](https://github.com/lnrddev/tvbox).
 
 ⚙️ R aplicado a problemas de Engenharia (em construção).
 <!--
