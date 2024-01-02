@@ -1,6 +1,6 @@
 ### Seja bem-vindo(a)!!! 👋
 
-Este é meu repositório pessoal de atividades desenvolvidas por mim em ensino, pesquisa e extensão dentro da Universidade Federal de Alfenas (UNIFAL-MG).
+Este é meu repositório de atividades desenvolvidas por mim em ensino, pesquisa e extensão dentro da Universidade Federal de Alfenas (UNIFAL-MG).
 
 Os projetos desenvolvidos e disponíveis são apresentados a seguir:
 
