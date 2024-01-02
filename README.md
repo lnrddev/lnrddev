@@ -6,7 +6,7 @@ Os projetos desenvolvidos e disponíveis são apresentados a seguir:
 
 🖥️ [Descaracterização de TV Box apreendidas pela Receita Federal](https://github.com/lnrddev/tvbox).
 
-⚙️ R aplicado a problemas de Engenharia (em construção).
+⚙️ [R aplicado a problemas de Engenharia (em construção)](https://github.com/lnrddev/rengenharia).
 <!--
 **lnrddev/lnrddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
